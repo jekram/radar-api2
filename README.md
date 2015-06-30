@@ -7,3 +7,4 @@ API for simple node app to view issues on github. Communicates with github API. 
 - FILE_LOG: true or false, specifies whether to save logs to logs.log  
 
 
+
